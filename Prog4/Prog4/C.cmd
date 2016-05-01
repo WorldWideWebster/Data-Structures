@@ -1,0 +1,14 @@
+O FCN.TXT
+F
+D
+I 10 20
+S NEWFCN.TXT
+C
+O NEWFCN.TXT
+P
+F
+F
+F
+F
+R
+P
